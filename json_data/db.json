@@ -1,0 +1,13 @@
+{
+  "Emp": [
+    {
+      "emp_no": "01",
+      "emp_name": "Saurabh Wagh",
+      "emp_dep": "Front-End",
+      "emp_role": "Junior Developer",
+      "emp_hireddate": "2024-06-05",
+      "emp_salary": "24000",
+      "id": 1
+    }
+  ]
+}
